@@ -1,0 +1,90 @@
+﻿  coin.cpp
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(35,61): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(35,57): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(35,53): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(35,49): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(45,10): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(46,14): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(47,9): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(48,15): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(50,32): warning C4244:  '=': conversion from 'const TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(50,32): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(50,32): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(50,32): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(50,32): warning C4244:         ]
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(51,36): warning C4244:  '=': conversion from 'TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(51,36): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(51,36): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(51,36): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(51,36): warning C4244:         ]
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(52,31): warning C4244:  '=': conversion from 'const TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(52,31): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(52,31): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(52,31): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(52,31): warning C4244:         ]
+  game_manager.cpp
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(53,37): warning C4244:  '=': conversion from 'TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(53,37): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(53,37): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(53,37): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\coin.cpp(53,37): warning C4244:         ]
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(72,109): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(72,82): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(75,108): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(75,82): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(107,114): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(107,87): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(110,114): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  hpbar.cpp
+  main.cpp
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\game_manager.cpp(110,87): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\main.cpp(3,30): warning C4100:  'argv': unreferenced formal parameter
+  npc.cpp
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\main.cpp(3,18): warning C4100:  'argc': unreferenced formal parameter
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(40,61): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(40,57): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(40,53): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(40,49): warning C4244:  'argument': conversion from 'int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(92,10): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(93,14): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(94,9): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(95,15): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(149,10): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(150,14): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(151,9): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+  player.cpp
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\npc.cpp(152,15): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\player.cpp(26,90): warning C4100:  'image_path': unreferenced formal parameter
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\player.cpp(32,123): warning C4100:  'mSpeed': unreferenced formal parameter
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\player.cpp(32,110): warning C4100:  'nFrames': unreferenced formal parameter
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\player.cpp(61,61): warning C4244:  'argument': conversion from 'const int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\player.cpp(61,57): warning C4244:  'argument': conversion from 'const int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\player.cpp(61,53): warning C4244:  'argument': conversion from 'const int' to 'Uint8', possible loss of data
+  text.cpp
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\player.cpp(61,49): warning C4244:  'argument': conversion from 'const int' to 'Uint8', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\text.cpp(15,64): warning C4458:  declaration of 'renderer' hides class member
+  ultimate.cpp
+  wall.cpp
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\text.h(17,16): message :  see declaration of 'Text::renderer'
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(31,24): warning C4244:  '=': conversion from 'const TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(31,24): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(31,24): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(31,24): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(31,24): warning C4244:         ]
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(32,28): warning C4244:  '=': conversion from 'TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(32,28): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(32,28): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(32,28): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(32,28): warning C4244:         ]
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(33,23): warning C4244:  '=': conversion from 'const TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(33,23): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(33,23): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(33,23): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(33,23): warning C4244:         ]
+  Generating Code...
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(34,29): warning C4244:  '=': conversion from 'TemplateClass' to 'int', possible loss of data
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(34,29): warning C4244:         with
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(34,29): warning C4244:         [
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(34,29): warning C4244:             TemplateClass=float
+C:\Users\arnas\source\repos\CUPHEAD\CUPHEAD\wall.cpp(34,29): warning C4244:         ]
+  CUPHEAD.vcxproj -> C:\Users\arnas\source\repos\CUPHEAD\Debug\CUPHEAD.exe
